@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_2644a64601a3eae1f96cf0e73e1c3fa5bf664ea0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_c2644d6f2884af7a4d8ef93cfefb679150d0291a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_c7e8c3735b4c4196b6a0e012b8fe06a2c58515df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5b3aa7fcb9262f1ace34b746e414715126a17679">
+        <dex dex="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d2207ac81d561706c6f0d5baa8e182f05589af3d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/word/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e09b2f896cfdb1539bbbb11364c80a7c7292c775/classes.dex" />
+    </item>
+    <item
+        jar="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="731b7ba0c754d15c8b0bec4acb7e12d4ae1c2abe">
+        <dex dex="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_07c74e142aa47114783f0beb29b650c68c35ee49/classes.dex" />
+    </item>
+    <item
+        jar="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_9f1a0e87496b3603206aa313a09b0da9d3f099dc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/word/Desktop/android-ndk-master/widget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_58acf238c50f9062003d0a96a5440af4f6033198/classes.dex" />
+    </item>
+
+</items>
