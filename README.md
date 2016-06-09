@@ -1,6 +1,8 @@
 # NoPaddingTextView
 
+Font Size as TextView's height in NoPaddingTextView. So It's TextView
 
+## Compare TextView with NoPaddingTextView
 ### TextView (1)
 	<TextView
         android:layout_width="wrap_content"
@@ -22,7 +24,7 @@
     />
     
 ![](https://github.com/isjang98/NoPaddingTextView/blob/master/img/50px_textview.png)
-	
+
 ### NoPaddingTextView
     <kr.socar.widget.NoPaddingTextView
     	android:layout_marginTop="50px"
@@ -35,4 +37,18 @@
 
 ![](https://github.com/isjang98/NoPaddingTextView/blob/master/img/NoPaddingTextView.png)
 
+# Example Usage	
+    <kr.socar.widget.NoPaddingTextView
+    	android:layout_marginTop="50px"
+    	android:layout_width="wrap_content"
+    	android:layout_height="70px"
+    	android:textSize="70px"
+    	android:text="쏘카 타자~ ABCDEFGHIJK"
+    	android:background="@android:color/holo_orange_light"
+    />
 
+
+
+
+## Developed By
+- Word - isjang98@gmail.com
