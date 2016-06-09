@@ -3,7 +3,7 @@
 Font Size as TextView's height in NoPaddingTextView. So It's TextView
 
 ## Compare TextView with NoPaddingTextView
-### TextView (1)
+### TextView(기본) - 기본적으로 들어가는 상하 여백
 	<TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -14,7 +14,7 @@ Font Size as TextView's height in NoPaddingTextView. So It's TextView
 
 ![](https://github.com/isjang98/NoPaddingTextView/blob/master/img/wrap_textview.png)
 
-### TextView (2)
+### TextView - (height = textSize) 로 같게 했을 경우 발생하는 글자 잘림 현상
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="70px"
@@ -25,7 +25,7 @@ Font Size as TextView's height in NoPaddingTextView. So It's TextView
     
 ![](https://github.com/isjang98/NoPaddingTextView/blob/master/img/50px_textview.png)
 
-### NoPaddingTextView
+### **NoPaddingTextView** - 상하여백 없는 TextView
     <kr.socar.widget.NoPaddingTextView
     	android:layout_width="wrap_content"
     	android:layout_height="70px"
