@@ -36,16 +36,26 @@ Font Size as TextView's height in NoPaddingTextView. So It's TextView
 
 ![](https://github.com/isjang98/NoPaddingTextView/blob/master/img/NoPaddingTextView.png)
 
+# Getting Started
+please type it in your build.gradle file.
+
+	repositories {
+        jcenter()
+    }
+    
+	dependencies {
+    	compile 'kr.socar.wordlib:wordLib:0.1.0'
+	}    
+    
+
 # Example Usage	
-    <kr.socar.widget.NoPaddingTextView
-    	android:layout_width="wrap_content"
-    	android:layout_height="70px"
-    	android:textSize="70px"
-    	android:text="쏘카 타자~ ABCDEFGHIJK"
-    	android:background="@android:color/holo_orange_light"
-    />
-
-
+    <kr.socar.wordlib.NoPaddingTextView
+        android:layout_marginTop="50px"
+        android:layout_width="wrap_content"
+        android:layout_height="70px"
+        android:textSize="70px"
+        android:text="쏘카 타자~ ABCDEFGHIJK"
+        />
 
 
 ## Developed By
